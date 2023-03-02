@@ -37,3 +37,28 @@ def Binary_Search_in_Array_or_Pylist(list, n):
         return f"{n} is not found in the list"
 user_input = int(input("Enter a number\n:-"))
 print(Binary_Search_in_Array_or_Pylist(list, user_input))
+
+# || Finding Second Largest Element in Array ||
+def sec_largest(arr):
+    largest = arr[0]
+    for num in range(len(arr)):
+        if arr[num] > largest:
+            largest = arr[num]
+    sec_largest = 1
+    for item in arr:
+        if item > sec_largest and item != largest:
+            sec_largest = item
+    return sec_largest
+
+print(sec_largest([3, 454, 23, 524, 52, 125, 52, 52, 5, 3, 24, 6]))
+# Optimal Solution
+def sec_largest(arr):
+    largest = arr[0]
+    sec_largest = 0
+    for num in range(len(arr)):
+        if arr[num] > largest:
+            sec_largest = largest
+            largest = arr[num]
+    return sec_largest
+
+print(sec_largest([3, 454, 23, 524, 52, 125, 52, 52, 5, 3, 24, 6]))
