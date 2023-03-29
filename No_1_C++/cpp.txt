@@ -1,0 +1,4 @@
+C++ is a high-level programming language that was developed in the early 1980s by Bjarne Stroustrup as an extension of the C programming language.
+C++ is widely used in various industries including finance, gaming, and software development due to its performance, flexibility, and compatibility with other programming languages.
+It supports object-oriented programming, generic programming, and low-level memory manipulation.
+C++ is compiled, meaning that the code is transformed into machine-readable instructions that can be executed by a computer.
