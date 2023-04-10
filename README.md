@@ -1,2 +1,2 @@
 # Competitive Programming
-# All Data Structures & Algorithms Related Codes are Saved Here (Written by Me)
+Competitive Programming Guided Path on CodeStudio:- https://www.codingninjas.com/codestudio/guided-paths/competitive-programming
