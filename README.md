@@ -1,2 +1,4 @@
 # Competitive Programming
-Competitive Programming Guided Path on CodeStudio:- https://www.codingninjas.com/codestudio/guided-paths/competitive-programming
+GeeksforGeeks:- https://auth.geeksforgeeks.org/user/farhansadidzihan67/practice
+LeetCode:- https://leetcode.com/farhansadidzihan
+CodeChef:- https://www.codechef.com/users/farhanzihan
